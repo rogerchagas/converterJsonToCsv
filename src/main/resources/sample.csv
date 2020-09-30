@@ -1,0 +1,3 @@
+desired_bed_cleanup,has_dry_leaves,has_wet_leaves,has_fallen_limbs,has_cut_limbs,has_rocks,has_mulch,has_pine,has_pet_waste,has_other,has_cement,has_acorns,has_pine_cones,other_debris,last_service,desired_haulaway,details
+true,true,true,false,false,true,true,false,false,true,false,true,false,"this is a description of the other types of debris I have",8_to_12_weeks,true,"these are some details"
+false,true,true,false,false,false,true,false,false,true,true,true,false,"this is a description of the other types of debris I have",1_to_2_weeks,false,details
